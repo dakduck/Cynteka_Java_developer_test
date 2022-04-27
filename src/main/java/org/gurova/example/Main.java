@@ -13,7 +13,7 @@ import static org.gurova.example.Utils.isSumOfComparisonsZero;
 /***
  * @author Irina Gurova
  */
-public class StringMetrics {
+public class Main {
 
     /***
      * Основной метод программы сопоставления схожих строк.
